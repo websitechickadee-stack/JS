@@ -1,0 +1,9 @@
+{
+    "navigationFallback": {
+        "rewrite": "/index.html"
+    },
+    "globalHeaders": {
+      "x-frame-options": "SAMEORIGIN",
+      "Permissions-Policy": "fullscreen=(self), geolocation=(), microphone=(), camera=(), fullscreen=(self), payment=()"
+    }
+}
